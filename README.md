@@ -1,4 +1,7 @@
 # Visual Studio Code OAS-2-Tree Extension
+
+https://marketplace.visualstudio.com/items?itemName=oas2tree.oas-2-tree
+
  <img src="https://raw.githubusercontent.com/erickgarro/vscode-oas-2-tree/6-req-users-can-visualize-the-rest-methods-information-in-the-form-of-a-tree-graph/src/assets/img/icons/main.png?token=GHSAT0AAAAAABRYY54VFVSJU3WP6QN5WSGYYSZHKZA" alt="oas-2-tree-example" width="50"> OAS-2-Tree is an extension for <a href="https://code.visualstudio.com/"> Visual Studio Code </a>,  aiming at providing core features to visualize Web APIs described in <a href="https://www.openapis.org/" > OpenAPI</a>. The extension works with OpenAPI v2.0 and v3.0 definitions, and has basic support for OpenAPI v3.1.
 
 <img src="https://raw.githubusercontent.com/erickgarro/vscode-oas-2-tree/4d4a64522cafb6e3b61ee339910e2805614c7e52/src/assets/img/icons/screenshot.png?token=GHSAT0AAAAAABRYY54VYRVDVF725MO4KOXIYSZGOYQ" alt="oas-2-tree-example" width="620">
