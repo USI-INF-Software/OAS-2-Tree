@@ -29,7 +29,7 @@ OAS-2-Tree transforms the API description into a visual tree representation, to 
 <img src="https://github.com/USI-INF-Software/OAS-2-Tree/blob/main/src/assets/img/versions.gif?raw=true" alt="Dynamic rendering" width="620">
 </p>
 
-* Live generation of the visualization
+* Live generation of the visualization.
 
 <p align="center">
 <img src="https://github.com/USI-INF-Software/OAS-2-Tree/blob/main/src/assets/img/add-post.gif?raw=true" alt="Live generation" width="620">
@@ -42,19 +42,19 @@ OAS-2-Tree transforms the API description into a visual tree representation, to 
 <img src="https://github.com/USI-INF-Software/OAS-2-Tree/blob/main/src/assets/img/validation.gif?raw=true" alt="Validation" width="620">
 </p>
 
-* Collapsing and expanding
+* Leaves collapsing and expanding.
 
 <p align="center">
 <img src="https://github.com/USI-INF-Software/OAS-2-Tree/blob/main/src/assets/img/collapse-expand.gif?raw=true" alt="Collapsing and expanding" width="620">
 </p>
 
-* Rotation
+* Tree rotation.
 
 <p align="center">
 <img src="https://github.com/USI-INF-Software/OAS-2-Tree/blob/main/src/assets/img/rotation.gif?raw=true" alt="Rotate tree" width="620">
 </p>
 
-* Labels
+* Toggling labels.
 
 <p align="center">
 <img src="https://github.com/USI-INF-Software/OAS-2-Tree/blob/main/src/assets/img/toggle-labels.gif?raw=true" alt="Toggle labels" width="620">
