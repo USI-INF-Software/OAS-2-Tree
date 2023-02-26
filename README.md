@@ -22,7 +22,7 @@
 
 OAS-2-Tree transforms the API description into a visual tree representation, to give a rapid overview of the API's structure.
 
-* Preview OpenApi specs as trees in a side webview panel.
+* Preview OpenAPI specs as trees in a side webview panel.
 * Full support of OpenAPI v3.0 and Swagger v2.0.
 
 <p align="center">
@@ -60,9 +60,19 @@ OAS-2-Tree transforms the API description into a visual tree representation, to 
 <img src="https://github.com/USI-INF-Software/OAS-2-Tree/blob/main/src/assets/img/toggle-labels.gif?raw=true" alt="Toggle labels" width="620">
 </p>
 
+
+* Navigation.
+
+Click on a method tobe navigated the source description in OpenAPI.
+
 **Enjoy!**
 
-**Authors:**
-VS Code extension: [Erick Garro](https://github.com/erickgarro)
-Original transformation: [Souhaila Serbout](https://github.com/souhailaS)
+---
+
+[@DESIGN Research Group](https://design.inf.usi.ch/)
+
 [@USI-INF-Software](https://github.com/USI-INF-Software), Lugano, Switzerland
+
+--
+
+Contact us through our GitHub repository or email: souhaila.serbout@usi.ch
