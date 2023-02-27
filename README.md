@@ -73,6 +73,11 @@ Click on a method tobe navigated the source description in OpenAPI.
 
 [@USI-INF-Software](https://github.com/USI-INF-Software), Lugano, Switzerland
 
+
+Authors: VS Code extension: Erick Garro
+
+Original transformation: Souhaila Serbout @USI-INF-Software, Lugano, Switzerland
+
 --
 
 Contact us through our GitHub repository or email: souhaila.serbout@usi.ch
