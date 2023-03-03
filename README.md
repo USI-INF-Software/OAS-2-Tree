@@ -63,7 +63,7 @@ OAS-2-Tree transforms the API description into a visual tree representation, to 
 
 * Navigation.
 
-Click on a method tobe navigated the source description in OpenAPI.
+Click on a method to navigate from the visualization back to its source description in OpenAPI textual editor.
 
 **Enjoy!**
 
