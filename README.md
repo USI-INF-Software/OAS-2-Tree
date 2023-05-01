@@ -80,6 +80,6 @@ Click on a method to navigate from the visualization back to its source descript
 
 **Original transformation:** Souhaila Serbout @USI-INF-Software, Lugano, Switzerland
 
---
+---
 
 Contact us through our GitHub repository or email: souhaila.serbout@usi.ch
