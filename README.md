@@ -74,7 +74,7 @@ Click on a method to navigate from the visualization back to its source descript
 [@USI-INF-Software](https://github.com/USI-INF-Software), Lugano, Switzerland
 
 
-Authors: VS Code extension: Erick Garro
+Authors: VS Code extension: [Erick Garro](https://github.com/erickgarro)
 
 Original transformation: Souhaila Serbout @USI-INF-Software, Lugano, Switzerland
 
