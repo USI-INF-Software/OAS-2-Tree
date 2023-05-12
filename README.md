@@ -1,3 +1,12 @@
+
+-----
+
+Contact us through our GitHub repository or email: souhaila.serbout@usi.ch
+
+We will be happy to collect your feedback trough the form: https://forms.office.com/e/hhrFUzkRuY
+
+-----
+
 # OAS-2-Tree Visual Studio Code Extension
 
 [Download the extension](https://marketplace.visualstudio.com/items?itemName=oas2tree.oas-2-tree) from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=oas2tree.oas-2-tree).
@@ -64,6 +73,10 @@ OAS-2-Tree transforms the API description into a visual tree representation, to 
 * Navigation.
 
 Click on a method to navigate from the visualization back to its source description in OpenAPI textual editor.
+
+
+## Web version:
+OAS2Tree is also avaliable in a web app version: http://api-ace.inf.usi.ch/openapi-to-tree/
 
 **Enjoy!**
 
