@@ -9,7 +9,7 @@ We will be happy to collect your feedback trough the form: https://forms.office.
 
 # OAS-2-Tree Visual Studio Code Extension
 
-[Download the extension](https://marketplace.visualstudio.com/items?itemName=oas2tree.oas-2-tree) from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=oas2tree.oas-2-tree).
+[Download the extension](https://marketplace.visualstudio.com/items?itemName=oas2tree.oas2tree) from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=oas2tree.oas2tree).
 
  <img src="https://github.com/USI-INF-Software/OAS-2-Tree/blob/main/src/assets/img/icons/main.png?raw=true" alt="oas-2-tree-example" width="50"> OAS-2-Tree is an extension for <a href="https://code.visualstudio.com/"> Visual Studio Code</a> (desktop), aiming at providing core features to visualize Web APIs described in <a href="https://www.openapis.org/"> OpenAPI</a>. The extension works with OpenAPI v2.0 and v3.0 definitions, and has basic support for OpenAPI v3.1.
 
@@ -87,10 +87,12 @@ OAS2Tree is also avaliable in a web app version: http://api-ace.inf.usi.ch/opena
 [@USI-INF-Software](https://github.com/USI-INF-Software), Lugano, Switzerland
 
 
-Authors: VS Code extension: Erick Garro
+## Authors: 
 
-Original transformation: Souhaila Serbout @USI-INF-Software, Lugano, Switzerland
+**VS Code extension:** [Erick Garro](https://github.com/erickgarro)
 
---
+**Original transformation:** Souhaila Serbout @USI-INF-Software, Lugano, Switzerland
+
+---
 
 Contact us through our GitHub repository or email: souhaila.serbout@usi.ch
